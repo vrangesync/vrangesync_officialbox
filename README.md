@@ -37,7 +37,6 @@ Think it like 'swiss toolbox' where you can bring it anywhere and use it for you
 Innovative tools of the century
 -----------------------------------------
 
-xz - An impressive data-compression command-line tool.  (https://github.com/tukaani-project/xz)
 
 lz4(include multi-threads) (https://github.com/lz4/lz4  developed by Yann Collet)
 
@@ -50,7 +49,9 @@ xxhsum(xxhash) - One of the fastest checksum calculation tool on the market deve
 pigz(include multi-threads for gzip) (https://github.com/madler/pigz developered by Mark Adler)
 
 
-'xxh' contain xxhsum calculation of the static binary files ($ xxhsum -H2 )
+xz - An impressive data-compression command-line tool.(you can download static binary from another link)  (https://github.com/tukaani-project/xz)
+
+'xxh' file contain xxhsum calculation of the static binary files ($ xxhsum -H2 )
 
 
 
