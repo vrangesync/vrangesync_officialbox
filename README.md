@@ -58,6 +58,9 @@ xz - An impressive data-compression command-line tool.(you can download static b
 
 Vrangesync officialtoolbox include static binary files for your project and school
 ------------------------------
+
+It is recommend to validate the checksum before using them.
+
 1110213de142270b4160c7cedaa8429c  awk
 
 4df7e43e97c1dde65d9aa0affbe646c5  base64
