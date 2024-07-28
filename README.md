@@ -162,7 +162,7 @@ e2f1e0fcdf3032af16a642bd56b2f5f2  xargs
 
 Vrangesync startup script(vr) with 'autoview log' feature
 =============================================
-official executable file is 'vrex' . vr is a wrapper for 'vrex' which include 'autoview log' which allow operator to review activity while vrangesync is running.
+Official executable file is 'vrex' . vr is a wrapper for 'vrex' which include 'autoview log' which allow operator to review activity while vrangesync is running.
 
 An example how to use Vrangesync startup script (vr)
 =============================================
