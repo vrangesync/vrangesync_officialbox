@@ -40,7 +40,7 @@ Innovative tools of the century
 
 lz4(include multi-threads) (https://github.com/lz4/lz4  developed by Yann Collet)
 
-zstd (include multi-threads) ([https://github.com/lz4/lz4](https://github.com/facebook/zstd)  developed by Yann Collet)
+zstd (include multi-threads) (https://github.com/facebook/zstd  developed by Yann Collet)
 
 ncat - nmap official ncat (different from the 'netcat' found on the internet) (https://github.com/nmap)
 
