@@ -36,6 +36,9 @@ Think it like 'swiss toolbox' where you can bring it anywhere and use it for you
 
 Innovative tools of the century
 -----------------------------------------
+
+xz - An impressive data-compression command-line tool.  (https://github.com/tukaani-project/xz)
+
 lz4(include multi-threads) (https://github.com/lz4/lz4  developed by Yann Collet)
 
 zstd (include multi-threads) ([https://github.com/lz4/lz4](https://github.com/facebook/zstd)  developed by Yann Collet)
