@@ -33,26 +33,7 @@ Think it like 'swiss toolbox' where you can bring it anywhere and use it for you
 
 'static_single_binarybox(32_64bit).tar.xz'
 
-
-Innovative tools of the century
------------------------------------------
-
-
-lz4(include multi-threads) (https://github.com/lz4/lz4  developed by Yann Collet)
-
-zstd (include multi-threads) (https://github.com/facebook/zstd  developed by Yann Collet)
-
-ncat - nmap official ncat (different from the 'netcat' found on the internet) (https://github.com/nmap)
-
-xxhsum(xxhash) - One of the fastest checksum calculation tool on the market developed by Yann Collet(https://github.com/Cyan4973)
-
-pigz(include multi-threads for gzip) (https://github.com/madler/pigz developered by Mark Adler)
-
-
-xz - An impressive data-compression command-line tool.(you can download static binary from another link)  (https://github.com/tukaani-project/xz)
-
 'xxh' file contain xxhsum calculation of the static binary files ($ xxhsum -H2 )
-
 
 
 
@@ -173,5 +154,21 @@ An example how to use Vrangesync startup script (vr)
 
 ./vr -i "/path/inputdirectory" -o "/path/outputdirectory"
 
-An example on how to use Vrangesync startup script(vr)
+
+Credits
+==========
+
+lz4(include multi-threads) (https://github.com/lz4/lz4  developed by Yann Collet & 'multi-thread edition' developed by T-mat https://github.com/t-mat)
+
+zstd (include multi-threads) (https://github.com/facebook/zstd  developed by Yann Collet)
+
+ncat - nmap official ncat (different from the 'netcat' found on the internet) (https://github.com/nmap)
+
+xxhsum(xxhash) - One of the fastest checksum calculation tool on the market developed by Yann Collet(https://github.com/Cyan4973)
+
+pigz(include multi-threads for gzip) (https://github.com/madler/pigz developered by Mark Adler)
+
+
+xz - An impressive data-compression command-line tool.(you can download static binary from another link)  (https://github.com/tukaani-project/xz)
+
 
