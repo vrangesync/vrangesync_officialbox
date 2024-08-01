@@ -155,7 +155,7 @@ An example how to use Vrangesync startup script (vr)
 ./vr -i "/path/inputdirectory" -o "/path/outputdirectory"
 
 
-Credits
+Links
 ==========
 
 lz4(include multi-threads) (https://github.com/lz4/lz4  developed by Yann Collet & 'multi-thread edition' developed by T-mat https://github.com/t-mat)
