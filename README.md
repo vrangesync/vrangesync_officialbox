@@ -34,7 +34,8 @@ Think it like 'swiss toolbox' where you can bring it anywhere and use it for you
 
 'xxh' file contain xxhsum calculation of the static binary files ($ xxhsum -H2 )
 
-
+$ xxhsum -H2 utilities.tar.xz
+181d68cdf7143c0b62efa11ebce01f1e  utilities.tar.xz
 
 Vrangesync officialtoolbox include static binary files for your project and school
 ------------------------------
