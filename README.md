@@ -31,7 +31,6 @@ It is an independent, standalone executable file which can be startup from any 3
 Vrangesync officialtoolbox include static binary files that can be run from any 32bit/64bit unix/linux distro system such as debian, alpinelinux, opensuse, gentoo etc
 Think it like 'swiss toolbox' where you can bring it anywhere and use it for your own work.
 
-'static_single_binarybox(32_64bit).tar.xz'
 
 'xxh' file contain xxhsum calculation of the static binary files ($ xxhsum -H2 )
 
