@@ -19,7 +19,7 @@ What's Included
 
 The repository contains the following items. Each of which is explained in further detail below:
 
-    -A collection of static binary files(64bit) for 32bit and 64bit unix/linux machine
+    -A collection of static binary files(64bit) for 64bit unix/linux machine
     -Vrangesync startup script (vr) with 'autoview log' feature
     -An example how to use Vrangesync startup script (vr), a wrapper to run the 'vrex' 
   
@@ -29,8 +29,8 @@ A collection of static binary files
 
 What are 'static binary' file?
 ------------------------------
-It is an independent, standalone executable file which can be startup from any 32bit/64bit unix/linux system. It do not require any dynamic loader or library.
-Vrangesync officialtoolbox include static binary files that can be run from any 32bit/64bit unix/linux distro system such as debian, alpinelinux, opensuse, gentoo etc
+It is an independent, standalone executable file which can be startup from any 64bit unix/linux system. It do not require any dynamic loader or library.
+Vrangesync officialtoolbox include static binary files that can be run from any 64bit unix/linux distro system such as debian, alpinelinux, opensuse, gentoo etc
 Think it like 'swiss toolbox' where you can bring it anywhere and use it for your own work.
 
 
